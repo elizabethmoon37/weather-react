@@ -28,7 +28,6 @@ function App() {
           Beth Moon{" "}
         </a>
       </small>
-      ;
     </div>
   );
 }
