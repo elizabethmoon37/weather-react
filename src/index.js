@@ -10,7 +10,25 @@ function App() {
       <h1>Weather App</h1>
       <WeatherSearch />
       <br />
-      <small> Open-sourced code by Beth Moon </small>;
+      <small>
+        <a
+          href="https://github.com/elizabethmoon37/weather-react"
+          target="blank"
+          rel="noreferrer"
+        >
+          Open-sourced code{" "}
+        </a>{" "}
+        by
+        <a
+          href="https://github.com/elizabethmoon37"
+          target="blank"
+          rel="noreferrer"
+        >
+          {" "}
+          Beth Moon{" "}
+        </a>
+      </small>
+      ;
     </div>
   );
 }
