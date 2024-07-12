@@ -26,7 +26,7 @@ export default function Weather() {
       <div className="row">
         <div className="col-6">
           <h2>🌤 6°C </h2>
-          ///src="Beth add image source here with alt also. Remove h2"
+          {/* <img src="Beth add image source here with alt also. Remove h2" /> */}
         </div>
         <div className="col-6">
           <ul>
