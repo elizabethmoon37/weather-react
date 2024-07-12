@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="London" />
         <footer>
-          This project was coded by
+          <span> This project was coded by </span>
           <a
             href="https://github.com/elizabethmoon37"
             target="blank"
@@ -16,7 +16,8 @@ export default function App() {
           >
             Beth Moon
           </a>
-          and is
+          <span> and is </span>
+
           <a
             href="https://github.com/elizabethmoon37/weather-react"
             target="blank"
