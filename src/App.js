@@ -11,8 +11,8 @@ export default function App() {
           <span> This project was coded by </span>
           <a
             href="https://github.com/elizabethmoon37"
-            target="blank"
-            rel="noreferrer"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             Beth Moon
           </a>
@@ -20,8 +20,8 @@ export default function App() {
 
           <a
             href="https://github.com/elizabethmoon37/weather-react"
-            target="blank"
-            rel="noreferrer"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub.
           </a>
